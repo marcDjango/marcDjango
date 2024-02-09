@@ -9,6 +9,10 @@
 
 ### :man_technologist: About Me :
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marcDjango&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **marcDjango/marcDjango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
