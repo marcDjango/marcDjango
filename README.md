@@ -1,10 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-### Hi there 👋
+</div>
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=marcDjango&style=flat-square&color=blue" alt=""/>
 </div>
 
+---
 
+### :man_technologist: About Me :
 
 <!--
 **marcDjango/marcDjango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
