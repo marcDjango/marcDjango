@@ -76,13 +76,10 @@ Je suis un développeur **Full Stack** passionné, avec une expertise dans la cr
 
 ### 🌱 Latest Projects :
 
-- **[Budget Management App](https://github.com/marcDjango/budget-app)** - Une application full-stack pour la gestion des charges et dépenses avec **Next.js**, **TypeScript**, et **Prisma**.
+- **[Budget Management App](https://github.com/marcDjango/budget)** - Une application full-stack pour la gestion des charges et dépenses avec **Next.js**, **TypeScript**, et **Prisma**.
 
 ---
 
 N'hésite pas à me contacter si tu souhaites en savoir plus ou collaborer sur un projet ! 🚀
 
 ---
-
-J'espère que cette version améliorée de ton README te permettra de te démarquer auprès des recruteurs tout en mettant en avant tes compétences et projets.
-
